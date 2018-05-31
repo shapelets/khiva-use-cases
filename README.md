@@ -33,7 +33,7 @@ The available programming languages to use the library are:
 This repository aims to provide code, notebooks and presentations that supports and solve a full use case. 
 In this way, the need for a library of these characteristics and its usefulness is explained. 
 
-# What is the repository structure? 
+## What is the repository structure? 
 
 In the root directory there are different folders focused on a topic and inside of these folders there are directories
  showing how a case of study related with this topic can be solved. 

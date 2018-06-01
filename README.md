@@ -17,9 +17,9 @@ The Khiva library is a library which target is to analise time series and its st
 
 
 All these skills are enhanced with an incredible performance due to the parallelism that the library offers and the 
-possibility that it provides us to be executed in gpu and cpu.
+possibility that it provides us to be executed in GPU or/and CPU.
 
-The library  is developed in c++ but it provides bindings in order to be used in different programming languages.
+The library  is developed in C++ but it provides bindings in order to be used in different programming languages.
 The available programming languages to use the library are:
 
 * **C++**

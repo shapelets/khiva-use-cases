@@ -1,24 +1,20 @@
-# ELECTRIC CONSUMPTION RATE. CASE OF STUDY.
+# ELECTRIC CONSUMPTION RATE. CASE STUDY.
 
 ## Summary
-This use case is going to be based on the analysis of the correct assignation of distinct electric consumption rates of 100 locals. 
+We are going to use a predictive modelling to perform this analysis. 
 
-In order to do this analysis, a predictive modelling is going to be used. 
+The full use case is going to be based on a geographical research, features extraction to identify the time series 
+and similarity research to get conclusions about the correct use of the electric consumption rates. 
 
-The full use case is going to be based on a geographical research, features extraction (in order to identify the time series) and similarity research to get conclusions about the correct use of the electric consumption rates. 
+We are considering that consumption rates are assigned according to the kind of sub-industry sites are stablished. 
 
-It is supposed that the locals has the electric consumption rates corresponding to the kind of sub-industry which those locals have stablished. 
-
-In this use case, the TSA library has been used in order to re-dimension the data, extract the features and compose the features matrix for the predictive modelling and get the similarity between the locals of interest. 
+In this use case, we are using Khiva library to re-dimension the data, extract the features and compose the features matrix for the predictive modelling and obtain similarities between sites of interest.
 
 ## Data
 
-The data is stored in the shared Sinlogy:
+The data folder is expected to be located in the same directory as the Jupyter notebook provided here.
 
-* SYN_RS2416/datasets/data-enerNoc/
-
-This folder should be located in the same directory as the Jupyter notebook provided in this electric-consumption-rate-python-folder.
-
-> Note: The file time-series-redimension-applied.npy contains the data used to do the use-case after applying a re-dimension of the time series.
+> Note: The file time-series-redimension-applied.npy contains modified data in this use-case after applying a 
+dimension reduction technique of the time series.
 
 

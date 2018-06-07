@@ -1,6 +1,9 @@
 # Electric Consumption Rate
 
 ## Summary
+On this case study we will analyse the energy data from 100 commercial/ industrial sites and find out that the 
+consumption rates assigned to each site are correct. 
+
 We are going to use a predictive modelling to perform this analysis. 
 
 The full use case is going to be based on a geographical research, features extraction to identify the time series 

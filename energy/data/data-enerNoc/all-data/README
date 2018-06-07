@@ -1,0 +1,61 @@
+# EnerNOC GreenButton Data
+
+This is anonymized 5-minute energy usage data for 100 commercial/ industrial sites for 
+2012. Actual reading values and identifying information such as geo coordinates and 
+square footage have been anonymized, but the values have been skewed by a linear magnitude
+so that comparisons over time and between sites will remain consistent.
+
+This data export contains the following information:
+
+## GZip Archives
+
+Data has been packaged into archives for easy download:
+
+* all-data.tar.gz contains CSV, greenbutton and metadata
+* csv-only.tar.gz contains CSV and metadata
+* greenbutton-only.tar.gz contains greenbutton XML and metatdata
+
+
+## Meta
+
+The meta folder contains two files: one in CSV format, and the same information in
+YAML.  These files contain site metadata for each site ID including industry, 
+square footage, lat/lng and timezone.  Note that because lat/lng are randomized by a 
+small amount, the exact location may not appear correct (e.g. the point might be over 
+a body of water, etc.)
+
+
+## CSV
+
+File name: `csv/<site_id>.csv`
+
+Each row of the file contains the following values:
+
+    epoch timestamp, Date/ time, reading value, estimated indicator, anomaly indicator
+
+The `estimated indicator` is a boolean indicating if the reading was estimated.  The
+`anomaly indicator` is non-blank if the reading was erroneous.  Note also that the 
+unit of measure for energy data is kWh in the CSV files.
+
+
+## GreenButton XML
+
+File name: `gb_xml/<site_id>.xml`
+
+File contents:
+
+A greenbutton XML of the same data that is in the CSV.
+
+
+Useful GreenButton resources:
+
+  Sample GreenButton data: http://www.greenbuttondata.org/greendevelop.aspx
+  GreenButton conformance test: http://www.greenbuttondata.org/greentest.aspx
+  Anatomy of a GreenButton file: https://collaborate.nist.gov/twiki-sggrid/bin/view/SmartGrid/GreenButtonSDK
+  Greenbutton schema: http://naesb.org/copyright/espi.xsd
+
+
+## Link
+
+https://open-enernoc-data.s3.amazonaws.com/anon/index.html
+

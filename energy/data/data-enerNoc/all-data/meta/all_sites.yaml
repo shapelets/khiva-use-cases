@@ -1,0 +1,901 @@
+---
+'6':
+  industry: Commercial Property
+  sub_industry: Shopping Center/Shopping Mall
+  sq_ft: '161532'
+  lat_lng:
+  - '34.78300117'
+  - '-106.8952497'
+  time_zone: America/Denver
+  tzo: '-06:00'
+'8':
+  industry: Commercial Property
+  sub_industry: Shopping Center/Shopping Mall
+  sq_ft: '823966'
+  lat_lng:
+  - '40.32024733'
+  - '-76.40494239'
+  time_zone: America/New_York
+  tzo: '-04:00'
+'9':
+  industry: Commercial Property
+  sub_industry: Corporate Office
+  sq_ft: '169420'
+  lat_lng:
+  - '40.94675135'
+  - '-74.74208726'
+  time_zone: America/New_York
+  tzo: '-04:00'
+'10':
+  industry: Commercial Property
+  sub_industry: Shopping Center/Shopping Mall
+  sq_ft: '1029798'
+  lat_lng:
+  - '39.73250384'
+  - '-75.00686126'
+  time_zone: America/New_York
+  tzo: '-04:00'
+'12':
+  industry: Commercial Property
+  sub_industry: Business Services
+  sq_ft: '179665'
+  lat_lng:
+  - '39.69454093'
+  - '-74.89916595'
+  time_zone: America/New_York
+  tzo: '-04:00'
+'13':
+  industry: Commercial Property
+  sub_industry: Commercial Real Estate
+  sq_ft: '185847'
+  lat_lng:
+  - '38.78465068'
+  - '-77.47833675'
+  time_zone: America/New_York
+  tzo: '-04:00'
+'14':
+  industry: Commercial Property
+  sub_industry: Business Services
+  sq_ft: '1675720'
+  lat_lng:
+  - '47.82001743'
+  - '-122.101407'
+  time_zone: America/Los_Angeles
+  tzo: '-07:00'
+'21':
+  industry: Commercial Property
+  sub_industry: Shopping Center/Shopping Mall
+  sq_ft: '783982'
+  lat_lng:
+  - '36.80665087'
+  - '-76.82877146'
+  time_zone: America/New_York
+  tzo: '-04:00'
+'22':
+  industry: Commercial Property
+  sub_industry: Bank/Financial Services
+  sq_ft: '318130'
+  lat_lng:
+  - '38.16780583'
+  - '-122.7019178'
+  time_zone: America/Los_Angeles
+  tzo: '-07:00'
+'25':
+  industry: Commercial Property
+  sub_industry: Shopping Center/Shopping Mall
+  sq_ft: '1807149'
+  lat_lng:
+  - '41.98151724'
+  - '-71.62104984'
+  time_zone: America/New_York
+  tzo: '-04:00'
+'29':
+  industry: Commercial Property
+  sub_industry: Shopping Center/Shopping Mall
+  sq_ft: '377537'
+  lat_lng:
+  - '40.63134048'
+  - '-74.91601589'
+  time_zone: America/New_York
+  tzo: '-04:00'
+'30':
+  industry: Commercial Property
+  sub_industry: Bank/Financial Services
+  sq_ft: '496517'
+  lat_lng:
+  - '47.29794461'
+  - '-122.5435293'
+  time_zone: America/Los_Angeles
+  tzo: '-07:00'
+'31':
+  industry: Commercial Property
+  sub_industry: Commercial Real Estate
+  sq_ft: '294651'
+  lat_lng:
+  - '33.18898647'
+  - '-117.2366393'
+  time_zone: America/Los_Angeles
+  tzo: '-07:00'
+'32':
+  industry: Commercial Property
+  sub_industry: Shopping Center/Shopping Mall
+  sq_ft: '880941'
+  lat_lng:
+  - '34.37390331'
+  - '-87.04651781'
+  time_zone: America/Chicago
+  tzo: '-05:00'
+'36':
+  industry: Commercial Property
+  sub_industry: Business Services
+  sq_ft: '126205'
+  lat_lng:
+  - '40.29934951'
+  - '-75.47752837'
+  time_zone: America/New_York
+  tzo: '-04:00'
+'41':
+  industry: Commercial Property
+  sub_industry: Corporate Office
+  sq_ft: '191554'
+  lat_lng:
+  - '41.03863897'
+  - '-74.86575381'
+  time_zone: America/New_York
+  tzo: '-04:00'
+'42':
+  industry: Commercial Property
+  sub_industry: Shopping Center/Shopping Mall
+  sq_ft: '1237908'
+  lat_lng:
+  - '37.56641953'
+  - '-79.56338786'
+  time_zone: America/New_York
+  tzo: '-04:00'
+'44':
+  industry: Commercial Property
+  sub_industry: Shopping Center/Shopping Mall
+  sq_ft: '192167'
+  lat_lng:
+  - '44.74241776'
+  - '-73.58554074'
+  time_zone: America/New_York
+  tzo: '-04:00'
+'45':
+  industry: Commercial Property
+  sub_industry: Shopping Center/Shopping Mall
+  sq_ft: '1200131'
+  lat_lng:
+  - '36.36301864'
+  - '-87.03013879'
+  time_zone: America/Chicago
+  tzo: '-05:00'
+'49':
+  industry: Commercial Property
+  sub_industry: Shopping Center/Shopping Mall
+  sq_ft: '497092'
+  lat_lng:
+  - '41.2161756'
+  - '-78.14809154'
+  time_zone: America/New_York
+  tzo: '-04:00'
+'51':
+  industry: Commercial Property
+  sub_industry: Shopping Center/Shopping Mall
+  sq_ft: '65961'
+  lat_lng:
+  - '43.18250295'
+  - '-112.6869112'
+  time_zone: America/Denver
+  tzo: '-06:00'
+'55':
+  industry: Commercial Property
+  sub_industry: Shopping Center/Shopping Mall
+  sq_ft: '625142'
+  lat_lng:
+  - '39.91023717'
+  - '-80.51961034'
+  time_zone: America/New_York
+  tzo: '-04:00'
+'56':
+  industry: Commercial Property
+  sub_industry: Commercial Real Estate
+  sq_ft: '428277'
+  lat_lng:
+  - '39.20897557'
+  - '-76.69972177'
+  time_zone: America/New_York
+  tzo: '-04:00'
+'65':
+  industry: Commercial Property
+  sub_industry: Commercial Real Estate
+  sq_ft: '476246'
+  lat_lng:
+  - '39.25982033'
+  - '-76.95122033'
+  time_zone: America/New_York
+  tzo: '-04:00'
+'78':
+  industry: Commercial Property
+  sub_industry: Shopping Center/Shopping Mall
+  sq_ft: '1037364'
+  lat_lng:
+  - '35.69328223'
+  - '-87.01858864'
+  time_zone: America/Chicago
+  tzo: '-05:00'
+'88':
+  industry: Education
+  sub_industry: Primary/Secondary School
+  sq_ft: '94150'
+  lat_lng:
+  - '40.31513263'
+  - '-75.47204123'
+  time_zone: America/New_York
+  tzo: '-04:00'
+'92':
+  industry: Education
+  sub_industry: Primary/Secondary School
+  sq_ft: '105530'
+  lat_lng:
+  - '40.24392238'
+  - '-74.91771912'
+  time_zone: America/New_York
+  tzo: '-04:00'
+'99':
+  industry: Education
+  sub_industry: Primary/Secondary School
+  sq_ft: '79503'
+  lat_lng:
+  - '36.57549581'
+  - '-86.22741261'
+  time_zone: America/Chicago
+  tzo: '-05:00'
+'100':
+  industry: Education
+  sub_industry: Primary/Secondary School
+  sq_ft: '81681'
+  lat_lng:
+  - '38.63511632'
+  - '-75.93401425'
+  time_zone: America/New_York
+  tzo: '-04:00'
+'101':
+  industry: Education
+  sub_industry: Primary/Secondary School
+  sq_ft: '274418'
+  lat_lng:
+  - '35.59674915'
+  - '-83.83065746'
+  time_zone: America/Chicago
+  tzo: '-05:00'
+'103':
+  industry: Education
+  sub_industry: Primary/Secondary School
+  sq_ft: '217241'
+  lat_lng:
+  - '38.00903622'
+  - '-75.37697374'
+  time_zone: America/New_York
+  tzo: '-04:00'
+'109':
+  industry: Education
+  sub_industry: Primary/Secondary School
+  sq_ft: '97901'
+  lat_lng:
+  - '36.28638818'
+  - '-87.11008289'
+  time_zone: America/Chicago
+  tzo: '-05:00'
+'111':
+  industry: Education
+  sub_industry: Primary/Secondary School
+  sq_ft: '92179'
+  lat_lng:
+  - '39.81213322'
+  - '-75.25236525'
+  time_zone: America/New_York
+  tzo: '-04:00'
+'116':
+  industry: Education
+  sub_industry: Primary/Secondary School
+  sq_ft: '175537'
+  lat_lng:
+  - '35.66742272'
+  - '-87.517393'
+  time_zone: America/Chicago
+  tzo: '-05:00'
+'136':
+  industry: Education
+  sub_industry: Primary/Secondary School
+  sq_ft: '233062'
+  lat_lng:
+  - '38.63471614'
+  - '-75.35821879'
+  time_zone: America/New_York
+  tzo: '-04:00'
+'137':
+  industry: Education
+  sub_industry: Primary/Secondary School
+  sq_ft: '80224'
+  lat_lng:
+  - '40.86149476'
+  - '-72.88557216'
+  time_zone: America/New_York
+  tzo: '-04:00'
+'144':
+  industry: Education
+  sub_industry: Primary/Secondary School
+  sq_ft: '86867'
+  lat_lng:
+  - '38.14657096'
+  - '-75.84018987'
+  time_zone: America/New_York
+  tzo: '-04:00'
+'153':
+  industry: Education
+  sub_industry: Primary/Secondary School
+  sq_ft: '105215'
+  lat_lng:
+  - '40.26375183'
+  - '-74.97108041'
+  time_zone: America/New_York
+  tzo: '-04:00'
+'186':
+  industry: Education
+  sub_industry: Primary/Secondary School
+  sq_ft: '117074'
+  lat_lng:
+  - '39.22671205'
+  - '-76.86400257'
+  time_zone: America/New_York
+  tzo: '-04:00'
+'197':
+  industry: Education
+  sub_industry: Primary/Secondary School
+  sq_ft: '132737'
+  lat_lng:
+  - '38.14344984'
+  - '-75.91579796'
+  time_zone: America/New_York
+  tzo: '-04:00'
+'213':
+  industry: Education
+  sub_industry: Primary/Secondary School
+  sq_ft: '72333'
+  lat_lng:
+  - '35.47966886'
+  - '-107.095281'
+  time_zone: America/Denver
+  tzo: '-06:00'
+'214':
+  industry: Education
+  sub_industry: Primary/Secondary School
+  sq_ft: '95132'
+  lat_lng:
+  - '33.09246724'
+  - '-96.6997555'
+  time_zone: America/Chicago
+  tzo: '-05:00'
+'217':
+  industry: Education
+  sub_industry: Primary/Secondary School
+  sq_ft: '315404'
+  lat_lng:
+  - '40.3065895'
+  - '-75.48928221'
+  time_zone: America/New_York
+  tzo: '-04:00'
+'218':
+  industry: Education
+  sub_industry: Primary/Secondary School
+  sq_ft: '197266'
+  lat_lng:
+  - '35.58555457'
+  - '-86.53450821'
+  time_zone: America/Chicago
+  tzo: '-05:00'
+'224':
+  industry: Education
+  sub_industry: Primary/Secondary School
+  sq_ft: '129663'
+  lat_lng:
+  - '36.18381825'
+  - '-87.27503507'
+  time_zone: America/Chicago
+  tzo: '-05:00'
+'228':
+  industry: Education
+  sub_industry: Primary/Secondary School
+  sq_ft: '77247'
+  lat_lng:
+  - '35.58568398'
+  - '-106.3737145'
+  time_zone: America/Denver
+  tzo: '-06:00'
+'236':
+  industry: Education
+  sub_industry: Primary/Secondary School
+  sq_ft: '92032'
+  lat_lng:
+  - '34.90931424'
+  - '-107.0155435'
+  time_zone: America/Denver
+  tzo: '-06:00'
+'259':
+  industry: Education
+  sub_industry: Primary/Secondary School
+  sq_ft: '153699'
+  lat_lng:
+  - '40.8828578'
+  - '-73.56775637'
+  time_zone: America/New_York
+  tzo: '-04:00'
+'270':
+  industry: Education
+  sub_industry: Primary/Secondary School
+  sq_ft: '276443'
+  lat_lng:
+  - '39.70345378'
+  - '-75.36276254'
+  time_zone: America/New_York
+  tzo: '-04:00'
+'275':
+  industry: Education
+  sub_industry: Primary/Secondary School
+  sq_ft: '108405'
+  lat_lng:
+  - '40.26934257'
+  - '-74.74514292'
+  time_zone: America/New_York
+  tzo: '-04:00'
+'281':
+  industry: Food Sales & Storage
+  sub_industry: Grocer/Market
+  sq_ft: '48878'
+  lat_lng:
+  - '33.61963386'
+  - '-116.6222695'
+  time_zone: America/Los_Angeles
+  tzo: '-07:00'
+'285':
+  industry: Food Sales & Storage
+  sub_industry: Grocer/Market
+  sq_ft: '42534'
+  lat_lng:
+  - '33.95631704'
+  - '-117.0477889'
+  time_zone: America/Los_Angeles
+  tzo: '-07:00'
+'304':
+  industry: Food Sales & Storage
+  sub_industry: Grocer/Market
+  sq_ft: '31022'
+  lat_lng:
+  - '34.77380195'
+  - '-117.063032'
+  time_zone: America/Los_Angeles
+  tzo: '-07:00'
+'339':
+  industry: Food Sales & Storage
+  sub_industry: Grocer/Market
+  sq_ft: '27988'
+  lat_lng:
+  - '34.42182061'
+  - '-117.7651881'
+  time_zone: America/Los_Angeles
+  tzo: '-07:00'
+'341':
+  industry: Food Sales & Storage
+  sub_industry: Grocer/Market
+  sq_ft: '54589'
+  lat_lng:
+  - '42.02888731'
+  - '-71.62585461'
+  time_zone: America/New_York
+  tzo: '-04:00'
+'363':
+  industry: Food Sales & Storage
+  sub_industry: Grocer/Market
+  sq_ft: '31964'
+  lat_lng:
+  - '34.49497719'
+  - '-117.0152966'
+  time_zone: America/Los_Angeles
+  tzo: '-07:00'
+'366':
+  industry: Food Sales & Storage
+  sub_industry: Grocer/Market
+  sq_ft: '54178'
+  lat_lng:
+  - '41.49974856'
+  - '-72.80533999'
+  time_zone: America/New_York
+  tzo: '-04:00'
+'384':
+  industry: Food Sales & Storage
+  sub_industry: Grocer/Market
+  sq_ft: '27625'
+  lat_lng:
+  - '34.29665466'
+  - '-118.2585456'
+  time_zone: America/Los_Angeles
+  tzo: '-07:00'
+'386':
+  industry: Food Sales & Storage
+  sub_industry: Grocer/Market
+  sq_ft: '43690'
+  lat_lng:
+  - '33.56634185'
+  - '-117.6659077'
+  time_zone: America/Los_Angeles
+  tzo: '-07:00'
+'391':
+  industry: Food Sales & Storage
+  sub_industry: Grocer/Market
+  sq_ft: '56926'
+  lat_lng:
+  - '40.65600584'
+  - '-73.83714808'
+  time_zone: America/New_York
+  tzo: '-04:00'
+'399':
+  industry: Food Sales & Storage
+  sub_industry: Grocer/Market
+  sq_ft: '45105'
+  lat_lng:
+  - '40.97791628'
+  - '-72.32981842'
+  time_zone: America/New_York
+  tzo: '-04:00'
+'400':
+  industry: Food Sales & Storage
+  sub_industry: Grocer/Market
+  sq_ft: '24050'
+  lat_lng:
+  - '34.0124428'
+  - '-117.7648664'
+  time_zone: America/Los_Angeles
+  tzo: '-07:00'
+'401':
+  industry: Food Sales & Storage
+  sub_industry: Grocer/Market
+  sq_ft: '26721'
+  lat_lng:
+  - '33.81528003'
+  - '-117.53437'
+  time_zone: America/Los_Angeles
+  tzo: '-07:00'
+'404':
+  industry: Food Sales & Storage
+  sub_industry: Grocer/Market
+  sq_ft: '74493'
+  lat_lng:
+  - '40.66385677'
+  - '-73.6153218'
+  time_zone: America/New_York
+  tzo: '-04:00'
+'427':
+  industry: Food Sales & Storage
+  sub_industry: Grocer/Market
+  sq_ft: '36760'
+  lat_lng:
+  - '34.45936366'
+  - '-117.4634315'
+  time_zone: America/Los_Angeles
+  tzo: '-07:00'
+'454':
+  industry: Food Sales & Storage
+  sub_industry: Grocer/Market
+  sq_ft: '46697'
+  lat_lng:
+  - '33.69197248'
+  - '-118.0257395'
+  time_zone: America/Los_Angeles
+  tzo: '-07:00'
+'455':
+  industry: Food Sales & Storage
+  sub_industry: Grocer/Market
+  sq_ft: '42704'
+  lat_lng:
+  - '33.74882211'
+  - '-117.0801213'
+  time_zone: America/Los_Angeles
+  tzo: '-07:00'
+'472':
+  industry: Food Sales & Storage
+  sub_industry: Grocer/Market
+  sq_ft: '46503'
+  lat_lng:
+  - '42.95368979'
+  - '-72.71016807'
+  time_zone: America/New_York
+  tzo: '-04:00'
+'474':
+  industry: Food Sales & Storage
+  sub_industry: Grocer/Market
+  sq_ft: '44594'
+  lat_lng:
+  - '33.33367945'
+  - '-117.2877342'
+  time_zone: America/Los_Angeles
+  tzo: '-07:00'
+'475':
+  industry: Food Sales & Storage
+  sub_industry: Grocer/Market
+  sq_ft: '21505'
+  lat_lng:
+  - '33.78885024'
+  - '-118.3345952'
+  time_zone: America/Los_Angeles
+  tzo: '-07:00'
+'478':
+  industry: Food Sales & Storage
+  sub_industry: Grocer/Market
+  sq_ft: '47257'
+  lat_lng:
+  - '41.59927972'
+  - '-72.58562231'
+  time_zone: America/New_York
+  tzo: '-04:00'
+'484':
+  industry: Food Sales & Storage
+  sub_industry: Grocer/Market
+  sq_ft: '40590'
+  lat_lng:
+  - '34.95461612'
+  - '-118.474401'
+  time_zone: America/Los_Angeles
+  tzo: '-07:00'
+'492':
+  industry: Food Sales & Storage
+  sub_industry: Grocer/Market
+  sq_ft: '54469'
+  lat_lng:
+  - '40.72433907'
+  - '-73.25143779'
+  time_zone: America/New_York
+  tzo: '-04:00'
+'496':
+  industry: Food Sales & Storage
+  sub_industry: Grocer/Market
+  sq_ft: '52890'
+  lat_lng:
+  - '34.84766914'
+  - '-117.7419882'
+  time_zone: America/Los_Angeles
+  tzo: '-07:00'
+'512':
+  industry: Food Sales & Storage
+  sub_industry: Grocer/Market
+  sq_ft: '21980'
+  lat_lng:
+  - '35.64594568'
+  - '-118.7978549'
+  time_zone: America/Los_Angeles
+  tzo: '-07:00'
+'648':
+  industry: Light Industrial
+  sub_industry: Food Processing
+  sq_ft: '20691'
+  lat_lng:
+  - '34.64348922'
+  - '-89.28865783'
+  time_zone: America/Chicago
+  tzo: '-05:00'
+'654':
+  industry: Light Industrial
+  sub_industry: Food Processing
+  sq_ft: '33596'
+  lat_lng:
+  - '37.0142531'
+  - '-87.06507281'
+  time_zone: America/Chicago
+  tzo: '-05:00'
+'673':
+  industry: Light Industrial
+  sub_industry: Food Processing
+  sq_ft: '91304'
+  lat_lng:
+  - '38.67407233'
+  - '-75.43989192'
+  time_zone: America/New_York
+  tzo: '-04:00'
+'674':
+  industry: Light Industrial
+  sub_industry: Food Processing
+  sq_ft: '12884'
+  lat_lng:
+  - '38.04768265'
+  - '-120.9719731'
+  time_zone: America/Los_Angeles
+  tzo: '-07:00'
+'690':
+  industry: Light Industrial
+  sub_industry: Manufacturing
+  sq_ft: '183631'
+  lat_lng:
+  - '42.20958534'
+  - '-78.99903042'
+  time_zone: America/New_York
+  tzo: '-04:00'
+'697':
+  industry: Light Industrial
+  sub_industry: Food Processing
+  sq_ft: '4650'
+  lat_lng:
+  - '37.22778053'
+  - '-122.1335847'
+  time_zone: America/Los_Angeles
+  tzo: '-07:00'
+'703':
+  industry: Light Industrial
+  sub_industry: Food Processing
+  sq_ft: '117651'
+  lat_lng:
+  - '44.47177365'
+  - '-75.61789475'
+  time_zone: America/New_York
+  tzo: '-04:00'
+'716':
+  industry: Light Industrial
+  sub_industry: Manufacturing
+  sq_ft: '860258'
+  lat_lng:
+  - '41.71547771'
+  - '-87.9332212'
+  time_zone: America/Chicago
+  tzo: '-05:00'
+'718':
+  industry: Light Industrial
+  sub_industry: Food Processing
+  sq_ft: '28138'
+  lat_lng:
+  - '40.52468055'
+  - '-74.35378623'
+  time_zone: America/New_York
+  tzo: '-04:00'
+'731':
+  industry: Light Industrial
+  sub_industry: Food Processing
+  sq_ft: '6236'
+  lat_lng:
+  - '41.11320068'
+  - '-81.7077033'
+  time_zone: America/New_York
+  tzo: '-04:00'
+'737':
+  industry: Light Industrial
+  sub_industry: Food Processing
+  sq_ft: '23843'
+  lat_lng:
+  - '40.44768449'
+  - '-75.99049611'
+  time_zone: America/New_York
+  tzo: '-04:00'
+'742':
+  industry: Light Industrial
+  sub_industry: Food Processing
+  sq_ft: '17717'
+  lat_lng:
+  - '42.06854592'
+  - '-71.2513348'
+  time_zone: America/New_York
+  tzo: '-04:00'
+'744':
+  industry: Light Industrial
+  sub_industry: Food Processing
+  sq_ft: '22383'
+  lat_lng:
+  - '27.84862487'
+  - '-82.0480141'
+  time_zone: America/New_York
+  tzo: '-04:00'
+'745':
+  industry: Light Industrial
+  sub_industry: Food Processing
+  sq_ft: '1943'
+  lat_lng:
+  - '38.52008877'
+  - '-76.08258013'
+  time_zone: America/New_York
+  tzo: '-04:00'
+'755':
+  industry: Light Industrial
+  sub_industry: Manufacturing
+  sq_ft: '225974'
+  lat_lng:
+  - '43.29647851'
+  - '-71.72979539'
+  time_zone: America/New_York
+  tzo: '-04:00'
+'761':
+  industry: Light Industrial
+  sub_industry: Manufacturing
+  sq_ft: '127899'
+  lat_lng:
+  - '42.10762651'
+  - '-87.78948284'
+  time_zone: America/Chicago
+  tzo: '-05:00'
+'765':
+  industry: Light Industrial
+  sub_industry: Other Light Industrial
+  sq_ft: '7394'
+  lat_lng:
+  - '40.02768022'
+  - '-80.45340754'
+  time_zone: America/New_York
+  tzo: '-04:00'
+'766':
+  industry: Light Industrial
+  sub_industry: Food Processing
+  sq_ft: '12261'
+  lat_lng:
+  - '43.00244098'
+  - '-114.1137001'
+  time_zone: America/Denver
+  tzo: '-06:00'
+'767':
+  industry: Light Industrial
+  sub_industry: Food Processing
+  sq_ft: '189836'
+  lat_lng:
+  - '33.7222721'
+  - '-118.3243791'
+  time_zone: America/Los_Angeles
+  tzo: '-07:00'
+'771':
+  industry: Light Industrial
+  sub_industry: Food Processing
+  sq_ft: '1821'
+  lat_lng:
+  - '33.68743829'
+  - '-112.0119562'
+  time_zone: America/Phoenix
+  tzo: '-06:00'
+'786':
+  industry: Light Industrial
+  sub_industry: Food Processing
+  sq_ft: '31727'
+  lat_lng:
+  - '42.94925552'
+  - '-112.1840075'
+  time_zone: America/Denver
+  tzo: '-06:00'
+'805':
+  industry: Light Industrial
+  sub_industry: Food Processing
+  sq_ft: '58421'
+  lat_lng:
+  - '42.24499761'
+  - '-71.06051803'
+  time_zone: America/New_York
+  tzo: '-04:00'
+'808':
+  industry: Light Industrial
+  sub_industry: Food Processing
+  sq_ft: '76915'
+  lat_lng:
+  - '40.40698005'
+  - '-75.0701837'
+  time_zone: America/New_York
+  tzo: '-04:00'
+'832':
+  industry: Light Industrial
+  sub_industry: Manufacturing
+  sq_ft: '186614'
+  lat_lng:
+  - '35.81109974'
+  - '-89.96906061'
+  time_zone: America/Chicago
+  tzo: '-05:00'
+'887':
+  industry: Light Industrial
+  sub_industry: Food Processing
+  sq_ft: '381939'
+  lat_lng:
+  - '38.83195039'
+  - '-75.82502245'
+  time_zone: America/New_York
+  tzo: '-04:00'

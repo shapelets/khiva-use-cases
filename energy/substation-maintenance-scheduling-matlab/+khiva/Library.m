@@ -26,9 +26,9 @@ classdef Library < handle
                 libraryPath = '/usr/local/lib/libkhiva_c.so';
                 includePath = '/usr/local/include';
             elseif ispc
-                addpath(fullfile('C:/Program Files/Khiva/include','khiva_c'))
-                libraryPath = 'C:/Program Files/Khiva/lib/khiva_c.dll';
-                includePath = 'C:/Program Files/Khiva/include';                         
+                addpath(fullfile('C:/Program Files/Khiva/v0/include','khiva_c'))
+                libraryPath = 'C:/Program Files/Khiva/v0/lib/khiva_c.dll';
+                includePath = 'C:/Program Files/Khiva/v0/include';                         
             else
                 disp('Platform not supported')
             end

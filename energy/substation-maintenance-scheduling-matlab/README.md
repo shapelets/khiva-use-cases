@@ -20,7 +20,7 @@ A decision tree classification ensemble is applied to explain when to operate th
 * Month
 * Is Weekend? Boolean value denoting whether the maintenance slot occurs in a weekend or not.
 
-In this use case, the TSA library has been used in order to reduce the input data, in order to plot the consumption over time of the sites per industry, in order to observe that they behave similarly, even though the magnitude of the series might differ. In addition a few extra usages of the library are included in the scripts contained in this folder (such as hierarchical clustering based on the euclidean distance, and calculating the best `n` discords between sites of the same industry).
+In this use case, the KHIVA library has been used in order to reduce the input data, in order to plot the consumption over time of the sites per industry, in order to observe that they behave similarly, even though the magnitude of the series might differ. In addition a few extra usages of the library are included in the scripts contained in this folder (such as hierarchical clustering based on the euclidean distance, and calculating the best `n` discords between sites of the same industry).
 
 ## Data
 The raw data corresponds to the [EnerNOC Open Data dataset](https://open-enernoc-data.s3.amazonaws.com/anon/index.html).

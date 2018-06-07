@@ -1,4 +1,4 @@
-# ELECTRIC CONSUMPTION RATE. CASE STUDY.
+# Electric Consumption Rate
 
 ## Summary
 We are going to use a predictive modelling to perform this analysis. 

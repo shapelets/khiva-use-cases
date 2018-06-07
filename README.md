@@ -20,7 +20,7 @@ All these features are enhanced with an incredible performance due to the usage 
 be executed in GPU or/and multicore CPUs.
 
 The main library is developed in C++ and includes bindings for different programming languages.
-The available languages bindings to use the library are:
+The available languages for using the library are:
 
 * **C++**
 * **Python**
@@ -31,7 +31,8 @@ The available languages bindings to use the library are:
 ## What is this repository for? 
 
 This repository provides code, notebooks and presentations that supports and solve a full use case. 
-In this way, the need for a library of these characteristics and its usefulness is explained. 
 
 ## What is the repository structure? 
 In the root directory there are different folders focused on a topic and inside these folders there are directories showing a case study. 
+
+* [Energy DataSet](https://github.com/shapelets/use-cases/tree/master/energy)

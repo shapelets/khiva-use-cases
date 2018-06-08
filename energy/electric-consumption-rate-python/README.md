@@ -7,7 +7,7 @@ consumption rates assigned to each site are correct.
 
 We use a predictive modelling to perform this analysis. 
 
-The analyis performed to find out the correct use of electrict consumption rates is based on:
+The analysis performed to find out the correct use of electric consumption rates is based on:
 - Geographical research.
 - Features extraction to identify the time series where to apply a predictive modelling.
 - Similarity research.  

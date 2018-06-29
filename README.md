@@ -1,5 +1,7 @@
 # Khiva's use-cases
 
+[![Gitter chat](https://badges.gitter.im/shapelets-io/Lobby.svg)](https://gitter.im/shapelets-io/khiva-use-cases?utm_source=share-link&utm_medium=link&utm_campaign=share-link)
+
 This repository contains some Use Cases where the Khiva Library can be applied. 
 
 ## Introduction 

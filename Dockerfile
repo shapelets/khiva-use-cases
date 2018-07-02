@@ -24,9 +24,8 @@ RUN apt-get update && \
     apt-get clean && \
     rm -rf /var/lib/apt/lists/*
 
-# Create a venv dir owned by unprivileged user & set up notebook in it
+# Create a virtual environment directory owned by a non-privileged user & set up notebook in it
 # This allows non-root to install python libraries if required
-
 RUN mkdir -p ${VENV_DIR} && chown -R ${NB_USER} ${VENV_DIR}
 USER ${NB_USER}
 RUN python3 -m venv ${VENV_DIR} && \

@@ -38,7 +38,7 @@ This repository provides code, notebooks and presentations that supports and sol
 ## What is the repository structure? 
 In the root directory there are different folders focused on a topic and inside these folders there are directories showing a case study. 
 
-Each topic has its own datasets. By now, only a energy dataset is available:
+Each topic has its own datasets. By now, only an energy dataset is available:
 
 * [Energy DataSet](https://github.com/shapelets/use-cases/tree/master/energy)
 

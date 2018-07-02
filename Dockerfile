@@ -9,8 +9,10 @@ RUN adduser --disabled-password \
     --gecos "Default user" \
     --uid ${NB_UID} \
     ${NB_USER}
+
+
 # Set ENV for all programs...
-ENV PATH ${VENV_DIR}/bin:$PATH
+#ENV PATH ${VENV_DIR}/bin:$PATH
 # And set ENV for R! It doesn't read from the environment...
 
 # The `rsession` binary that is called by nbrsessionproxy to start R doesn't seem to start
@@ -30,10 +32,7 @@ RUN apt-get update && \
 # Create a venv dir owned by unprivileged user & set up notebook in it
 # This allows non-root to install python libraries if required
 RUN mkdir -p ${VENV_DIR} && chown -R ${NB_USER} ${VENV_DIR}
-
 USER ${NB_USER}
-RUN pip3 install jupyter
-
 RUN python3 -m venv ${VENV_DIR} && \
     pip3 install --no-cache-dir \
          notebook==5.* && \

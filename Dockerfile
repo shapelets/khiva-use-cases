@@ -1,4 +1,5 @@
 FROM shapelets/khiva-python:0.1.0
+RUN pip install --no-cache-dir notebook==5.*
 
 ENV NB_USER jovyan
 ENV NB_UID 1000
@@ -14,8 +15,6 @@ COPY . ${HOME}
 USER root
 RUN chown -R ${NB_UID} ${HOME}
 USER ${NB_USER}
-
-RUN pip3 install jupyter
 
 # Specify the default command to run
 CMD ["jupyter", "notebook", "--ip", "0.0.0.0"]

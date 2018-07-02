@@ -15,7 +15,7 @@ USER root
 RUN chown -R ${NB_UID} ${HOME}
 USER ${NB_USER}
 
-RUN pip3 install jupyter
+RUN pip3 install --no-cache-dir notebook==5.*
 
 # Specify the default command to run
 CMD ["jupyter", "notebook", "--ip", "0.0.0.0"]

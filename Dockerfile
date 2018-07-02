@@ -37,12 +37,7 @@ RUN pip3 install jupyter
 RUN python3 -m venv ${VENV_DIR} && \
     pip3 install --no-cache-dir \
          notebook==5.* && \
-    pip3 install matplotlib && \
-    pip3 install numpy && \
-    pip3 install pandas && \
-    pip3 install khiva && \
-    pip3 install arrayfire && \
-    pip3 install folium
+    pip3 install requirements.txt
 
 
 

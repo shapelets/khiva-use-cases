@@ -15,7 +15,6 @@ USER root
 RUN chown -R ${NB_UID} ${HOME}
 USER ${NB_USER}
 
-RUN pip3 install --upgrade pip
 RUN pip3 install jupyter
 
 # Specify the default command to run

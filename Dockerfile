@@ -49,6 +49,7 @@ RUN apt-get update && \
 
 USER ${NB_USER}
 RUN pip3 install khiva==0.1.3
+RUN pip3 install jupyter
 RUN pip3 install --no-cache-dir \
          notebook==5.2 \
          git+https://github.com/jupyterhub/nbrsessionproxy.git \

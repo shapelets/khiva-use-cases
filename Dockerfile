@@ -37,7 +37,7 @@ RUN pip3 install jupyter
 RUN python3 -m venv ${VENV_DIR} && \
     pip3 install --no-cache-dir \
          notebook==5.* && \
-    pip3 install requirements.txt
+    pip3 install -r requirements.txt
 
 
 

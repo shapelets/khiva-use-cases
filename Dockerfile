@@ -19,7 +19,7 @@ USER root
 RUN chown -R ${NB_UID} ${HOME}
 USER ${NB_USER}
 
-RUN pip3 install --no-cache-dir \
+RUN pip install --no-cache-dir \
          notebook==5.2 && \
     jupyter serverextension enable --sys-prefix --py nbserverproxy && \
     jupyter serverextension enable --sys-prefix --py nbrsessionproxy && \

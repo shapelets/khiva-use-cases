@@ -43,7 +43,6 @@ RUN apt-get update && \
 
 # Create a venv dir owned by unprivileged user & set up notebook in it
 # This allows non-root to install python libraries if required
-RUN chown -R ${NB_USER}
 
 
 USER ${NB_USER}

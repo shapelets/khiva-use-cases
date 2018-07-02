@@ -41,7 +41,8 @@ RUN python3 -m venv ${VENV_DIR} && \
     pip3 install numpy && \
     pip3 install pandas && \
     pip3 install khiva && \
-    pip3 install arrayfire 
+    pip3 install arrayfire && \
+    pip3 install folium
 
 
 

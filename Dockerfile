@@ -18,6 +18,8 @@ ENV PATH ${VENV_DIR}/bin:$PATH
 
 ENV HOME /home/${NB_USER}
 WORKDIR ${HOME}
+COPY . ${HOME}
+RUN chown -R ${NB_USER} ${HOME}
 
 RUN apt-get update && \
     apt-get -y install python3-venv python3-dev && \

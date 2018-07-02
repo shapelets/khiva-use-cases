@@ -33,6 +33,11 @@ RUN mkdir -p ${VENV_DIR} && chown -R ${NB_USER} ${VENV_DIR}
 
 USER ${NB_USER}
 RUN pip3 install jupyter
+RUN pip3 install matplotlib
+RUN pip3 install khiva
+RUN pip3 install numpy
+RUN pip3 install pandas
+RUN pip3 install arrayfire
 RUN python3 -m venv ${VENV_DIR} && \
     pip3 install --no-cache-dir \
          notebook==5.*

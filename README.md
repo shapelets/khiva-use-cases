@@ -1,7 +1,6 @@
 # Khiva's use-cases
 
-[![Gitter chat](https://badges.gitter.im/shapelets-io/Lobby.svg)](https://gitter.im/shapelets-io/khiva-use-cases?utm_source=share-link&utm_medium=link&utm_campaign=share-link)
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/shapelets/khiva-use-cases/master?urlpath=https%3A%2F%2Fgithub.com%2Fshapelets%2Fkhiva-use-cases%2Ftree%2Fmaster%2Fenergy%2Felectric-consumption-rate-python)
+[![Gitter chat](https://badges.gitter.im/shapelets-io/Lobby.svg)](https://gitter.im/shapelets-io/khiva-use-cases?utm_source=share-link&utm_medium=link&utm_campaign=share-link/tree/interactive-use-cases)
 
 This repository contains some Use Cases where the Khiva Library can be applied. 
 
@@ -45,7 +44,7 @@ This repository provides interactive applications in order to show how and for w
 
 You can access to the executables in:
 
-* [MyBinder]()
+* [MyBinder](https://mybinder.org/v2/gh/shapelets/khiva-use-cases/feature/mybinder)
 
 The application are located in: 
 

@@ -39,3 +39,18 @@ This repository provides code, notebooks and presentations that supports and sol
 In the root directory there are different folders focused on a topic and inside these folders there are directories showing a case study. 
 
 * [Energy DataSet](https://github.com/shapelets/use-cases/tree/master/energy)
+
+## Interactive Applications
+This repository provides interactive applications in order to show how and for what khiva can be used. 
+
+You can access to the executables in:
+
+* [MyBinder]()
+
+The application are located in: 
+
+* [Applications](https://github.com/shapelets/use-cases/tree/master/interactive-use-cases)
+
+By now, the available applications are:
+
+* [Feature extraction](https://github.com/shapelets/use-cases/tree/master/interactive-use-cases/features-extraction)

@@ -2,12 +2,13 @@ FROM shapelets/khiva-python:0.1.0
 
 ENV NB_USER jovyan
 ENV NB_UID 1000
+ENV HOME /home/${NB_USER}
+
 RUN adduser --disabled-password \
     --gecos "Default user" \
     --uid ${NB_UID} \
     ${NB_USER}
 
-ENV HOME /home/${NB_USER}
 
 WORKDIR ${HOME}
 

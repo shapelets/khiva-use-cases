@@ -1,5 +1,5 @@
 FROM shapelets/khiva-python:0.1.0
-RUN pip install --no-cache-dir notebook==5.*
+RUN pip3 install --no-cache-dir notebook==5.*
 
 ENV NB_USER jovyan
 ENV NB_UID 1000

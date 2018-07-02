@@ -44,13 +44,13 @@ Each topic has its own datasets. By now, only an energy dataset is available:
 
 ## Interactive Applications
 
-This repository provides interactive applications in order to show how and for what khiva can be used. 
+This repository provides interactive applications in order to show how and for what Khiva can be used. 
 
 You can access to the executables in:
 
 * [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/shapelets/khiva-use-cases/feature/mybinder?filepath=interactive-applications)
 
-The application are located in: 
+The applications are located in: 
 
 * [Applications](https://github.com/shapelets/use-cases/tree/master/interactive-applications)
 

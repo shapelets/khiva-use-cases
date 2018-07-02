@@ -36,7 +36,6 @@ RUN adduser --disabled-password \
 COPY . ${HOME}
 USER root
 RUN chown -R ${NB_UID} ${HOME}
-USER ${NB_USER}
 
 RUN apt-get update && \
     apt-get -y install python3-venv python3-dev && \

@@ -1,7 +1,7 @@
 # Khiva's use-cases
 
 [![Gitter chat](https://badges.gitter.im/shapelets-io/Lobby.svg)](https://gitter.im/shapelets-io/khiva-use-cases?utm_source=share-link&utm_medium=link&utm_campaign=share-link/tree/interactive-use-cases)
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/shapelets/khiva-use-cases/feature/mybinder?filepath=interactive-applications)
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/shapelets/khiva-use-cases/master?filepath=interactive-applications)
 
 This repository contains some Use Cases where the Khiva Library can be applied. 
 
@@ -48,7 +48,7 @@ This repository provides interactive applications in order to show how and for w
 
 You can access to the executables in:
 
-* [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/shapelets/khiva-use-cases/feature/mybinder?filepath=interactive-applications)
+* [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/shapelets/khiva-use-cases/master?filepath=interactive-applications)
 
 The applications are located in: 
 

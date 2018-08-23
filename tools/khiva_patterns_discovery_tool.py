@@ -22,10 +22,10 @@ class Paint(object):
     def __init__(self):
         self.root = Tk()
         self.root.title("Khiva's Pattern Discovery")
-        self.e2 = Entry(self.root, textvariable="points")
+        self.points_entry = Entry(self.root)
         self.data = None
         tk.Button(self.root, text='Connect with data source', command=self.import_csv_data).grid(row=1, column=0)
-        self.e2.grid(row=1, column=4, pady=(20, 0))
+        self.points_entry.grid(row=1, column=4, pady=(20, 0))
         self.points = Label(self.root, text="Points")
         self.points.grid(row=1, column=3, padx=(1000, 0), pady=(20, 0))
         self.maximum = Label(self.root, text="Max")
@@ -38,6 +38,7 @@ class Paint(object):
         self.min = Entry(self.root)
         self.old_x = None
         self.old_y = None
+
         self.min.grid(row=3, column=4, )
         self.find_button = Button(self.root, text='Find', command=self.use_find)
         self.find_button.grid(row=1, column=3, padx=(0, 5))
@@ -64,7 +65,7 @@ class Paint(object):
 
     def use_find(self):
         plt.close('all')
-        new_length = self.e2.get()
+        new_length = self.points_entry.get()
 
         y = kv.max_min_norm(kv.Array(self.subsequence), int(self.max.get()), int(self.min.get())).to_numpy()
         x = np.array(self.subsequence_x)

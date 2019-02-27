@@ -1,4 +1,4 @@
-FROM shapelets/khiva-python:0.1.0
+FROM shapelets/khiva-python:0.2.0
 
 USER root
 

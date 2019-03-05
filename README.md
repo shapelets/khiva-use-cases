@@ -60,3 +60,10 @@ The available interactive applications are:
 * [Clustering](https://github.com/shapelets/use-cases/tree/master/interactive-applications/clustering)
 * [Anomaly detection](https://github.com/shapelets/use-cases/tree/master/interactive-applications/anomaly-detection)
 * [Motif Discovery](https://github.com/shapelets/use-cases/tree/master/interactive-applications/motif-discovery)
+
+## Tools 
+
+There is a section that provides tools to interact with Khiva.
+
+The available tools are:
+* [KPDT](https://github.com/shapelets/use-cases/tree/master/tools/khiva_patterns_discovery_tool.py)

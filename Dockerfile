@@ -1,7 +1,8 @@
-FROM shapelets/khiva-python:0.1.0
+FROM shapelets/khiva-python:0.2.0
 
 USER root
 
+# Setting variables to execute jupyter notebooks
 ENV NB_USER khiva-binder
 ENV NB_UID 1000
 ENV VENV_DIR /srv/venv

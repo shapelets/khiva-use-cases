@@ -32,6 +32,6 @@ USER ${NB_USER}
 RUN python3 -m venv ${VENV_DIR} 
 RUN pip3 install --no-cache-dir tornado==5.* 
 RUN pip3 install --no-cache-dir notebook==5.* && \
-    pip3 install --no-cache-dir -r ../requirements.txt
+    pip3 install --no-cache-dir -r requirements.txt
 
 CMD jupyter notebook --ip 0.0.0.0

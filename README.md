@@ -5,12 +5,12 @@
 
 ## What is this repository for? 
 
-This repository provides code, notebooks and presentations that supports and solve full use-cases by using Khiva library. 
+This repository provides code, notebooks and presentations that supports and solve full use-cases applying Khiva library. 
 
 ## What is the repository structure? 
-In the root directory, there is one folder, with data ecplorations, this folder contains explorations for datasets 
-of different nature, linke energy. Besides that, we also have a folder with python notebooks that show some interesting
-use-cases like anomaly detection, clustering, motif discovery or feature-extractions.
+In the root directory, there is one folder, with data explorations, this folder contains explorations for datasets 
+of different nature, like energy. Besides that, we also have a folder with python notebooks that show some interesting
+use-cases like anomaly detection, clustering, motif discovery or feature-extraction.
 
 ## Khiva library 
 
